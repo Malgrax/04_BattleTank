@@ -1,2 +1,5 @@
 # 04_BattleTank
-An open-world head-to-head tank fight with simple AI, terrain, and advanced control system in Unreal
+This is an open-world tank vs tank battle in an arena game that im going to be making for part of my udemy course.
+
+## commits 
+* BT01 Game Design Document (GDD)
