@@ -5,3 +5,6 @@ This is an open-world tank vs tank battle in an arena game that im going to be m
 * BT01 Game Design Document (GDD)
 * BT02 Setting Up A GitHub "Repo"
 * BT03 Setting Up A Landscape
+* BT04 Sculpting Landscape
+* BT05 Painting Landscape
+* BT06 Making The Tank
