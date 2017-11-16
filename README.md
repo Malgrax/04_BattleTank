@@ -8,3 +8,5 @@ This is an open-world tank vs tank battle in an arena game that im going to be m
 * BT04 Sculpting Landscape
 * BT05 Painting Landscape
 * BT06 Making The Tank
+* BT07 Camera Input Binding
+* BT08 PlayerUI
