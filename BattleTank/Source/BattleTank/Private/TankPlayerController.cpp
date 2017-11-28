@@ -2,7 +2,8 @@
 
 #include "TankPlayerController.h"
 #include "BattleTank.h"
-#include "Runtime/Engine/Classes/GameFramework/Actor.h"
+#include "Tank.h"
+#include "Engine/World.h"
 
 
 
